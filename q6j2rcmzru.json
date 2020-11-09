@@ -1,0 +1,24 @@
+{
+    "firstName":"Sebastian",
+    "lastName":"Bigos",
+    "preferredName":"Sebastian",
+    "email":"sebastianwbigos@lewisu.edu",
+    "phoneNumber":"815-832-6889",
+    "class":"cpsc-24700-001",
+    "room":"AS-104-A",
+    "startTime":"3pm CT",
+    "seatNumber":"417",
+    "inPerson":[
+        "Monday"
+    ],
+    "virtual":[
+        "Wednesday",
+        "Friday"
+    ],
+    "city":"Orland Park",
+    "state":"IL",
+    "zip":"60467",
+    "lat":"41.63",
+    "long":"-87.85",
+    "favoriteHobby":"Sports"
+}
