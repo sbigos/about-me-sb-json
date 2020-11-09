@@ -1,0 +1,25 @@
+{
+    "firstName":"Tony",
+    "lastName":"Stark",
+    "preferredName":"Iron Man",
+    "email":"ironmanmk42@avengers.org",
+    "phoneNumber":"815-IRONMAN",
+    "class":"Business and Technology",
+    "room":"AS-104-A",
+    "startTime":"3pm CT",
+    "seatNumber":"418",
+    "inPerson":[
+        ""
+    ],
+    "virtual":[
+        "Monday",
+        "Wednesday",
+        "Friday"
+    ],
+    "city":"New York City",
+    "state":"NY",
+    "zip":"100002",
+    "lat":"40.71",
+    "long":"-74.00",
+    "favoriteHobby":"Being Himself"
+}
